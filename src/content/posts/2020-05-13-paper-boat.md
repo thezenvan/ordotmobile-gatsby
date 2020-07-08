@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Dog And Puppy Piano - iOS
-slug: /dog-and-puppy-piano-ios
+slug: /dog-and-puppy-piano
 date: 2020-05-23 23:40
 description: dog and puppy piano
 featuredImage: /assets/ios4.png
