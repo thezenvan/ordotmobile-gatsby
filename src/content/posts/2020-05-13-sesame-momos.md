@@ -1,9 +1,11 @@
 ---
 template: blog-post
-title: Sesame Momos & Gaming
-slug: sesame-momos
+title: Dog And Puppy Sounds - iOS
+slug: ./dog-and-puppy-solunds
 date: 2020-05-13 12:47
-description: Sesame Momos
-featuredImage: /assets/charles-deluvio-d-vdqmtfaau-unsplash.jpg
+description: dog and puppy sounds
+featuredImage: /assets/ios5.jpg
 ---
-Sesame Momos
+Entertain your dog or puppy. Contains over 40 dog and puppy sounds including regular barks, tiny puppies, funny sounds and angry dogs.
+
+[Available at The App Store.](https://itunes.apple.com/us/app/dog-and-puppy-sounds-free/id568176872?mt=8)
