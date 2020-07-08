@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Cat Swap - iOS
-slug: cat-swap-ios
+slug: ./cat-swap-ios
 date: 2020-05-09T05:53:16.102Z
 description: Help the cats and kittens find their friends by finding similar
   cats and connecting them together to earn points. Enjoy the cat and kitten
