@@ -3,6 +3,6 @@ template: contact-page
 slug: /contact
 title: Get in touch
 ---
-Got a burning question regarding **JAMstack**, Need a new **Website**, or just anything in general. We are happy to talk.
+Want to make your idea into an app? Contact us!
 
-Just send us a message using the form below or you can send us a DM on [Twitter](https://twitter.com/stackrole)
+info (at) ordotmobile.com
