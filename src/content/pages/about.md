@@ -1,7 +1,7 @@
 ---
 template: about-page
 slug: /about
-title: About Foundation
+title: About OrDot Mobile
 ---
 We are dedicated to developing high-quality entertaining applications and games for the Android an iOS platforms.
 
