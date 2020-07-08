@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Cat Piano - iOS
-slug: /cat-piano-ios
+slug: /cat-piano
 date: 2020-05-13 12:46
 description: cat piano
 featuredImage: /assets/ios2.jpg
