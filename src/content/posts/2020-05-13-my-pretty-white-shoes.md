@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Cat And Kitten Sounds - iOS
-slug: ./cat-and-kitten-sounds-ios
+slug: .at-and-kitten-sounds-ios
 date: 2020-05-13 12:55
 description: cat and kitten sounds
 featuredImage: /assets/ios3.png
