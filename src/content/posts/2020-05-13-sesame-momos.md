@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Dog And Puppy Sounds - iOS
-slug: dog-and-puppy-sounds
+slug: /dog-and-puppy-sounds
 date: 2020-05-13 12:47
 description: dog and puppy sounds
 featuredImage: /assets/ios5.jpg
